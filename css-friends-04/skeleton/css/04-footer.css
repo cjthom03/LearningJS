@@ -1,0 +1,19 @@
+/* PHASE 4: Footer */
+footer {
+  width: 900px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-top: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: white;
+  min-height: 50px;
+}
+
+.footer-copyright {
+
+}
+
+.footer-nav {
+
+}
